@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="#">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dl5watp5nyc7wwzxpurbhp4ux4" alt="Devansh's Spotify Recently Played"/>
+  </a>
+</div>
