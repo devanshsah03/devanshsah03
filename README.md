@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-  Here are some of my recent songs(if a single Linkin Park, Pink Floyd or Queen song ain't there then I'm messed up 😄)
+  I am passionate about playing the guitar
+  I am a huge fan of Freddie Mercury, Jagjit Singh and Mohit Chauhan and I idolize "Slash"
+  Here are some of my recent songs
 </div>
 <hr>
 <div align="center">
