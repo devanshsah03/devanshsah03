@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align="left">
   I am passionate about playing the guitar
-  I am a huge fan of Freddie Mercury, Jagjit Singh and Mohit Chauhan and I idolize "Slash"
+  I am a huge fan of Freddie Mercury, Jagjit Singh and Mohit Chauhan and I idolize "David Gilmour" and "Brian May"
+  
+</div>
+<hr>
+<div>
   Here are some of my recent songs
 </div>
 <hr>
