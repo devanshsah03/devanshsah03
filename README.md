@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  Here are some of my recent songs(if a single Linkin Park, Pink Floyd or Queen song ai.'t there then I'm messed up 😄)
+<div align="left">
+  Here are some of my recent songs(if a single Linkin Park, Pink Floyd or Queen song ain't there then I'm messed up 😄)
 </div>
+<hr>
 <div align="center">
   <a href="#">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dl5watp5nyc7wwzxpurbhp4ux4" alt="Devansh's Spotify Recently Played"/>
